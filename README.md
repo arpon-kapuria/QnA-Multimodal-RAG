@@ -1,4 +1,4 @@
-# Bilingual Multimodal RAG System
+# 📚 Bilingual Multimodal RAG System
 
 This project implements a Multimodal **Retrieval-Augmented Generation (RAG)** pipeline capable of understanding and responding to user queries in both **English** and **Bangla**, with support for **Long-Term and Short-Term Memory**. The system retrieves context from a structured PDF corpus and generates grounded responses.
 
@@ -52,9 +52,9 @@ This project implements a Multimodal **Retrieval-Augmented Generation (RAG)** pi
 ```
 qna-mm-rag/
 ├── data/
-│   └── book.pdf                # HSC-Bangla-1st-paper book (KnowledgeBase)
+│   └── book.pdf                # KnowledgeBase for Long-Term memory
 │
-├── env/                        # Virtual environment directory
+├── env/                        # Virtual environment 
 │
 ├── notebooks/
 │   └── qna-test.ipynb          # Contains the code with intermediate steps and test cases
