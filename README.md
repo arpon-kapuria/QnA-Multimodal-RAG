@@ -100,7 +100,7 @@ qna-mm-rag/
 
    ```
    GROQ_API_KEY="groq_api_key"
-   JINA_API_TOKEN="jina_api_token"
+   JINA_API_KEY="jina_api_token"
    ```
 
 5. **Run the cells in notebook**
